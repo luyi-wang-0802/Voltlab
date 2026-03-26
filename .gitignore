@@ -1,0 +1,65 @@
+# Python 
+__pycache__/
+point_cloud/__pycache__/
+*.pyo
+*.pyd
+*.so
+
+# Python (backend)
+*.pyc
+.venv/
+uploads/
+*.sqlite3
+*.db
+.alembic.ini.swp
+*.ifc
+*.las
+*.laz
+
+# Virtual environments
+env/
+venv/
+.venv/
+*/env/
+
+# VS Code
+.vscode/
+
+# Editor directories and files (frontend)
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+dist
+dist-ssr
+build
+.env
+*.local
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# macOS 
+.DS_Store
+*/.DS_Store
+
+# Node.js
+node_modules/
+
+# Node.js
+node_modules/
+
+# Large local assets
+assets/*.mp4
+assets/*.mov
+assets/*.avi
+!assets/VideoCompress-FL2025_Group08_WebApp_Demo.mp4.mp4
+point_cloud/data/
