@@ -2,7 +2,7 @@
 
 [Jump to Chinese](#中文版)
 
-<video src="./assets/VideoCompress-FL2025_Group08_WebApp_Demo.mp4.mp4" controls preload="metadata" width="100%">
+<video src="./assets/FL2025_Group08_WebApp_Demo.mp4.mp4" controls preload="metadata" width="100%">
   Your browser does not support the video tag.
 </video>
 
