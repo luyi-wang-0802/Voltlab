@@ -2,11 +2,7 @@
 
 [Jump to Chinese](#中文版)
 
-<video src="./assets/FL2025_Group08_WebApp_Demo.mp4" controls preload="metadata" width="100%">
-  Your browser does not support the video tag.
-</video>
-
-[Direct video link](./assets/VideoCompress-FL2025_Group08_WebApp_Demo.mp4.mp4)
+[Watch demo video](./assets/FL2025_Group08_WebApp_Demo.mp4)
 
 ## English
 
@@ -87,8 +83,8 @@ For detailed setup and architecture:
 
 ### Notes
 
-- The embedded video uses the local file `assets/VideoCompress-FL2025_Group08_WebApp_Demo.mp4.mp4`.
-- If inline playback is not available in your viewer, use the direct video link above.
+- The demo video file is located at `assets/FL2025_Group08_WebApp_Demo.mp4`.
+- Use the link above to view the video.
 
 ## 中文版
 
