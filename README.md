@@ -2,7 +2,7 @@
 
 [Jump to Chinese](#中文版)
 
-[Watch demo video](./assets/FL2025_Group08_WebApp_Demo.mp4)
+[Watch demo video](https://github.com/luyi-wang-0802/Voltlab/releases/download/demo-video/FL2025_Group08_WebApp_Demo.mp4)
 
 ## English
 
