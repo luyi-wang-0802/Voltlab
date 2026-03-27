@@ -61,5 +61,5 @@ node_modules/
 assets/*.mp4
 assets/*.mov
 assets/*.avi
-!assets/VideoCompress-FL2025_Group08_WebApp_Demo.mp4.mp4
+!assets/FL2025_Group08_WebApp_Demo.mp4
 point_cloud/data/

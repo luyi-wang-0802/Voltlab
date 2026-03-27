@@ -2,7 +2,10 @@
 
 [Jump to Chinese](#中文版)
 
-[Watch demo video](https://github.com/luyi-wang-0802/Voltlab/releases/download/demo-video/FL2025_Group08_WebApp_Demo.mp4)
+<video width="100%" controls>
+  <source src="https://github.com/luyi-wang-0802/Voltlab/releases/download/demo-video/FL2025_Group08_WebApp_Demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## English
 
@@ -83,8 +86,8 @@ For detailed setup and architecture:
 
 ### Notes
 
-- The demo video file is located at `assets/FL2025_Group08_WebApp_Demo.mp4`.
-- Use the link above to view the video.
+- The demo video is embedded above and can be played directly in the README.
+- Video source: GitHub Releases
 
 ## 中文版
 
